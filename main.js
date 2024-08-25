@@ -27,7 +27,6 @@ function handleButtonClick(buttonId, message) {
   }
 }
 handleButtonClick('myButton', 'Button clicked!');
-// Демонстрація використання функції (припустимо, що HTML містить кнопку з ID 'myButton')
 // handleButtonClick('myButton', 'Button clicked!');
 
 /*
